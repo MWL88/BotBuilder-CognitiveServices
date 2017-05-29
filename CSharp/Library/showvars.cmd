@@ -1,1 +1,1 @@
-ehco version=%version%;builder=%builder%
+echo version=%version%;builder=%builder%
