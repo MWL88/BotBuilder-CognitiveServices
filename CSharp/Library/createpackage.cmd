@@ -1,4 +1,6 @@
-@echo off
+rem @echo off
+rem Param1 = %1
+
 setlocal
 setlocal enabledelayedexpansion
 setlocal enableextensions
