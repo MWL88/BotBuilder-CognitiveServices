@@ -1,1 +1,2 @@
-echo version=%version%;builder=%builder%
+echo =version=%version%=
+echo =builder=%builder%=
